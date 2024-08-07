@@ -33,7 +33,7 @@ export const links = [
   },
   {
     name: "Blog",
-    hash: "/blogs",
+    hash: "/blog",
   },
 ] as const;
 
